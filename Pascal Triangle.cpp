@@ -7,7 +7,7 @@
 This is known as pascal triangle
 Approach it can be done by cpmbinatioon of rows and column 
 combination of i and j=   i!/(j!*(i-j)!)
-
+Hope you find ituse full....
 */
 
 
